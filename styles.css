@@ -2,6 +2,16 @@ body
  {
     background-color:  #c0c1c4;;
     text-align: center; 
+    .box {
+        display: flex;
+      }
       
+      .one {
+        flex: 50%;
+      }
+      
+      .two {
+        flex: 50%;
+      }
 }
 
